@@ -11,4 +11,10 @@ Babel  | yes | yes  | yes  | yes
 Bundler  | yes | yes  | yes  | yes
 mpm | no | no  | yes  | yes
 bower | yes | yes  | yes  | yes
-Commons | no | no | no  | no  | yes
+Commons chunk | no | no | no  | yes
+
+### Lexique
+
+#### Commons chunk
+
+> Generate an extra chunk, which contains common modules shared between entry points.
